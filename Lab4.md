@@ -11,7 +11,7 @@ right after the ```git clone```. Then ```<enter>```.
 
 6. Run the tests, demonstrating they they fail
 ![image](screenshot3.png)            
-Type in the Junit test code, so cd into lab7, copy from the week3 meterial ```crtl-c```, and ```ctrl-v``` the test code to the command line, for the end of java part, change the to ListExamplesTests. 
+Type in the Junit test code, so cd into lab7, copy from the week3 meterial ```<crtl-c>```, and ```<ctrl-v>``` the test code to the command line, for the end of java part, change the to ListExamplesTests. 
 ```
 # code block
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
