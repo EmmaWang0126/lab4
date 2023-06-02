@@ -11,7 +11,7 @@ right after the ```git clone```. Then ```<enter>```.
 
 6. Run the tests, demonstrating they they fail
 ![image](screenshot3.png)            
-Type in the Junit test code, so cd into lab7, copy from the week3 meterial **crtl-c**, and **ctrl-v** the test code to the command line, for the end of java part, change the to ListExamplesTests. 
+Type in the Junit test code, so cd into lab7, copy from the week3 meterial ```crtl-c```, and ```ctrl-v``` the test code to the command line, for the end of java part, change the to ListExamplesTests. 
 ```
 # code block
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
@@ -29,5 +29,5 @@ Type ```vim ListExamples.java``` in the command line to enter. Press 44 and then
   
 9. Commit and push kthe resulting change to your Github account(you can pick any commit message!)
 ![image](screenshot6-1.png)
-![image](screenshot6-2.png)
+
 Type ```git add ListExamples.java``` and ```<enter>```, then ```git commit -m 'Updated'``` ```<enter>``` to commit, after that I push the result by typing ```git push git@github.com:EmmaWang0126/lab7.git``` and then ```<enter>``` to push the save file to github page. 
